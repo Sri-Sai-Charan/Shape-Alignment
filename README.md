@@ -19,13 +19,13 @@ Run the ShapeAlignment.ipynb file
 
 <table>
     <tr>
-        <td><img src="Results/im1.png"/></td>
+        <td><img src="Results/im1.png" height="300"/></td>
     </tr>
         <tr>
-        <td><img src="Results/im2.png"/></td>
+        <td><img src="Results/im2.png" height="300"/></td>
     </tr>
         <tr>
-        <td><img src="Results/im3.png"/></td>
+        <td><img src="Results/im3.png" height="300"/></td>
     </tr>
 </table>
 
