@@ -19,8 +19,13 @@ Run the ShapeAlignment.ipynb file
 
 <table>
     <tr>
-        <td><img src="https://drive.google.com/uc?id=1PnWIy9ZdP9SGkmGNtFCJ-JzKLwmW-qaN" width="500"/></td>
-        <td><img src="https://drive.google.com/uc?id=1PnWIy9ZdP9SGkmGNtFCJ-JzKLwmW-qaN" width="500"/></td>
+        <td><img src="Results/im1.png"/></td>
+    </tr>
+        <tr>
+        <td><img src="Results/im2.png"/></td>
+    </tr>
+        <tr>
+        <td><img src="Results/im3.png"/></td>
     </tr>
 </table>
 
